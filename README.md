@@ -28,7 +28,7 @@
                 ▒  ▒▒         Fav Languages:   JS, C++, Rust                       ░▓  ▒                      
                 ▒  ▒                    Job:   Wizard                              ▒   ▒                      
                 ▒  ▓░     Developmemt Field:   Lowlevel, Web and Game Dev          ▓▒  ▒                       
-                   ░               Also does:  Art (Pixel + Vector)                ░                          
+                   ░              Also does:  Art (Pixel + Vector)                 ░                          
                  ▒ ▒                                                               ▒ ▒                        
                    ▒                                                               ░                          
                                                                                                               
