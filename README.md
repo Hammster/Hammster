@@ -27,7 +27,7 @@
                ▒   ▓░                  Name:   Hans Koch                           ▓▒   ▒                     
                 ▒  ▒▒         Fav Languages:   JS, C++, Rust                       ░▓  ▒                      
                 ▒  ▒                    Job:   Wizard                              ▒   ▒                      
-                ▒  ▓░     Developmemt Field:   Lowlevel, Web and Game Dev          ▓▒  ▒                       
+                ▒  ▓░     Development Field:   Lowlevel, Web and Game Dev          ▓▒  ▒                       
                    ░              Also does:   Art (Pixel + Vector)                 ░                          
                  ▒ ▒                                                               ▒ ▒                        
                    ▒                                                               ░                          
